@@ -7,7 +7,7 @@ import matplotlib.pyplot as plt
 from matplotlib import style
 style.use('fivethirtyeight')
 
-# api key for Quandl is required from their website. 
+# After registering with quandl, get api_key and paste it below as a string (replace my_api_key)
 
 api_key = 'my_api_key'
 
