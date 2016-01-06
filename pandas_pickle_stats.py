@@ -7,9 +7,9 @@ import matplotlib.pyplot as plt
 from matplotlib import style
 style.use('fivethirtyeight')
 
+# api key for Quandl is required from their website. 
 
-
-api_key = 'aaaaaaaaaaaaaaaaaaaaaaaaaa'
+api_key = 'my_api_key'
 
 def get_states():
     us_states = pd.read_html('https://simple.wikipedia.org/wiki/List_of_U.S._states')
