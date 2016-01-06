@@ -9,7 +9,7 @@ style.use('fivethirtyeight')
 
 
 
-api_key = '6ZT6zSuxu9REptg2X9oo'
+api_key = 'aaaaaaaaaaaaaaaaaaaaaaaaaa'
 
 def get_states():
     us_states = pd.read_html('https://simple.wikipedia.org/wiki/List_of_U.S._states')
